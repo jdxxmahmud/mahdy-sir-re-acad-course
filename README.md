@@ -1,2 +1,2 @@
-# mahdys-sir-re-acad-course
-Repository contains everything of Mahdy Sir's research academy Service 3 works
+# mahdy-sir-re-acad-course
+The repository contains everything about Mahdy Sir's research academy Service 3 works
