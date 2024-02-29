@@ -2,7 +2,6 @@ from series import get_val_from_series
 
 class Cat:
     
-    dist_with_mouse = -1
 
     def __init__(self, name, x = 0, y = 0) -> None:
         self.x = x
